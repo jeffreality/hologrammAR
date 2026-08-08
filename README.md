@@ -8,7 +8,7 @@ The project is intentionally small and experimental: the goal is to explore whet
 
 ## Demo
 
-[Watch the hologrammAR demo](./hg-quokka.mp4)
+https://github.com/user-attachments/assets/e73c5247-f2ed-487c-ad8c-af27166917ef
 
 ## What it does
 
